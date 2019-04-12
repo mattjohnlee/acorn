@@ -1,0 +1,9 @@
+vendor
+wp-content
+*.DS_Store
+static/.sass-cache
+static/node_modules
+static/build/css/*.css
+static/build/js/*.js
+static/build/js/**/*.js
+static/build/svg/*.svg
